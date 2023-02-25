@@ -1,1 +1,0 @@
-# SQL, PowerBI - Portfolio
